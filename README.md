@@ -1,6 +1,6 @@
 # GCSE / IGCSE Notes
 
-## Subjects supported
+## Subjects available
 | Subject | Exam board |
 | ----------- | ----------- |
 | English Language | Edexcel IGCSE |
